@@ -12,7 +12,7 @@
 ![Mobx](https://img.shields.io/badge/Mobx-090909?style=for-the-badge&logo=mobx)
 ![Redux](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=redux)
 ![React-Router](https://img.shields.io/badge/-React%20Router-090909?style=for-the-badge&logo=react-router)
-![NodeJS](https://img.shields.io/badge/Node.js-090909?style=for-the-badge&logo=node-dot-js)
+![NodeJS](https://img.shields.io/badge/Node.js-090909?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express-090909?style=for-the-badge&logo=express)
 ![WebSocket](https://img.shields.io/badge/WebSocket-090909?style=for-the-badge&logo=websocket)
 ![MongoDB](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb)
