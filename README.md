@@ -17,6 +17,7 @@
 ![WebSocket](https://img.shields.io/badge/WebSocket-090909?style=for-the-badge&logo=websocket)
 ![MongoDB](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb)
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)
+![PostgresQL](https://img.shields.io/badge/Postgres-090909?style=for-the-badge&logo=postgres)
 
 
 ### Follow me
